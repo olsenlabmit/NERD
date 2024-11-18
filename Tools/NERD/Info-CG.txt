@@ -1,0 +1,33 @@
+Number of KMC
+3
+Conversion
+100.0
+Kuhn Length
+5.0
+Number of Precursors
+2
+
+NEW
+Concentration
+20.0
+Number in Simulation
+20.0
+A
+2
+7.302895439999998
+7.302895439999998
+B
+0
+
+NEW
+Concentration
+20.0
+Number in Simulation
+20.0
+A
+0
+B
+3
+0
+0
+0

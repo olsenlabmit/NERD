@@ -1,0 +1,63 @@
+﻿  Module_4_5.cpp
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(21,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(21,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(295,37): warning C4244: '=': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(351,39): warning C4244: '=': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(471,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(483,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(93,66): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=unsigned short
+          ]
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(97,66): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=unsigned short
+          ]
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(101,39): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(116,61): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=unsigned short
+          ]
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(119,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(120,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(194,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(198,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(458,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(555,45): warning C4244: 'argument': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(561,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(562,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(571,21): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\Module_4_5.cpp(188): warning C4715: 'KMC::choose': not all control paths return a value
+C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\subnet.h(125): warning C4715: 'crosslink::bifunctional_linker': not all control paths return a value
+  Module_4_5.vcxproj -> C:\Users\chemegrad\Documents\Tools\NERD\Module_4_5\x64\Debug\Module_4_5.exe

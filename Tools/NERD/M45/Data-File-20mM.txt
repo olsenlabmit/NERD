@@ -1,0 +1,27 @@
+Concentration of Molecule 1: 20 mM
+Molecule 1
+20 mM
+20 molecules
+Molecule 2
+20 mM
+20 molecules
+Total A: 40
+Total B: 60
+-----------------KMC Simulation #1--------------------
+Kinetic Monte Carlo for network formation took 0 seconds
+0.012
+0.333333
+0
+Property Prediction takes 0 seconds
+-----------------KMC Simulation #2--------------------
+Kinetic Monte Carlo for network formation took 0 seconds
+0.009
+0.210526
+0
+Property Prediction takes 0 seconds
+-----------------KMC Simulation #3--------------------
+Kinetic Monte Carlo for network formation took 0 seconds
+0.01
+0.277778
+0
+Property Prediction takes 0 seconds
