@@ -1,0 +1,35 @@
+digraph "" {
+	3	[active=False,
+		depiction_id="[<1] 2",
+		ids=2,
+		local_el="{'wildcard_cluster': False, 'ru_local_el': set(), 'endgrp_local_el': set()}",
+		symbol="[<1]"];
+	5	[active=False,
+		atomic_num=6,
+		chirality=CHI_UNSPECIFIED,
+		color=5,
+		colorscheme=set35,
+		contraction="{6: {'symbol': 'C', 'formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType.CHI_UNSPECIFIED, 'valence': \
+4, 'atomic_num': 6, 'mass': 12.011, 'num_hs': 2, 'stoch_el': [[], []], 'active': False, 'level': 0, 'explicit_atom_ids': False, '\
+ids': 1}, 7: {'symbol': 'O', 'formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType.CHI_UNSPECIFIED, '\
+valence': 2, 'atomic_num': 8, 'mass': 15.999, 'num_hs': 0, 'stoch_el': [[], []], 'active': False, 'level': 0, 'explicit_atom_ids': \
+False, 'ids': 1}}",
+		depiction_id=1,
+		explicit_atom_ids=False,
+		formal_charge=0,
+		ids=1,
+		is_aromatic=False,
+		level=0,
+		mass=12.011,
+		num_hs=2,
+		stoch_el="[[], []]",
+		style=filled,
+		symbol=C,
+		valence=4];
+	3 -> 5	[key=0,
+		contraction="{(7, 3): {'bond_type': '3'}}",
+		count_1=1];
+	5 -> 3	[key=0,
+		contraction="{(7, 3): {'bond_type': '3'}}",
+		count_1=1];
+}

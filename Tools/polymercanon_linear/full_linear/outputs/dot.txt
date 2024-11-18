@@ -1,0 +1,8 @@
+digraph DFA {
+    rankdir = LR;
+    I [style = invis];
+    I -> S0 [color=darkgreen, penwidth=4];
+    S0 [label = "", shape = circle, peripheries = 2, shape = doublecircle, color = red, style = filled, label = ""];
+    S0 -> S0 [label = "B"];
+    S0 -> S0 [label = "A"];
+}

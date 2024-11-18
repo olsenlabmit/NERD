@@ -1,0 +1,42 @@
+strict graph "" {
+	2	[active=False,
+		chirality=CHI_UNSPECIFIED,
+		color=5,
+		colorscheme=set35,
+		contraction="{3: {'symbol': 'C', 'formal_charge': 0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType.CHI_UNSPECIFIED, 'num_hs': \
+1, 'stoch_el': [[], []], 'active': False, 'level': 0, 'explicit_atom_ids': True, 'ids': 2}, 6: {'symbol': 'C', 'formal_charge': \
+0, 'is_aromatic': False, 'chirality': rdkit.Chem.rdchem.ChiralType.CHI_UNSPECIFIED, 'num_hs': 2, 'stoch_el': [[], []], 'active': \
+False, 'level': 0, 'explicit_atom_ids': True, 'ids': 2}}",
+		depiction_id="2 C",
+		explicit_atom_ids=True,
+		feature="<rdkit.DataStructs.cDataStructs.UIntSparseIntVect object at 0x0000028640AAE070>",
+		formal_charge=0,
+		ids=2,
+		is_aromatic=False,
+		level=0,
+		num_hs=2,
+		stoch_el="[[], []]",
+		style=filled,
+		symbol=C];
+	9	[active=False,
+		depiction_id="9 [>1]",
+		feature="<rdkit.DataStructs.cDataStructs.UIntSparseIntVect object at 0x0000028640AAE020>",
+		ids=6,
+		local_el="{'wildcard_cluster': False, 'ru_local_el': set(), 'endgrp_local_el': set()}",
+		symbol="[>1]"];
+	2 -- 9;
+	15	[active=False,
+		depiction_id="15 [>1]",
+		feature="<rdkit.DataStructs.cDataStructs.UIntSparseIntVect object at 0x000002863A2F9DA0>",
+		ids=7,
+		local_el="{'wildcard_cluster': False, 'ru_local_el': set(), 'endgrp_local_el': set()}",
+		symbol="[>1]"];
+	2 -- 15;
+	22	[active=False,
+		depiction_id="22 [>1]",
+		feature="<rdkit.DataStructs.cDataStructs.UIntSparseIntVect object at 0x0000028640AAE390>",
+		ids=8,
+		local_el="{'wildcard_cluster': False, 'ru_local_el': set(), 'endgrp_local_el': set()}",
+		symbol="[>1]"];
+	2 -- 22;
+}
